@@ -1,0 +1,5 @@
+<ItemPools>
+	<Pool Name="treasure">
+		<Item Name="Golden Gauntlet" Weight="0.2" DecreasedBy="1" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>

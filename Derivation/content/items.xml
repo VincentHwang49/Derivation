@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<active name="Derivation" description="Back to your origin!" gfx="collectibles_derivation.png" maxcharges="4"/>
+</item>

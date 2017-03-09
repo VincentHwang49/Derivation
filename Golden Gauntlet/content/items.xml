@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<active name="Golden Gauntlet" description="It's showtime!" gfx="collectibles_goldengauntlet.png" maxcharges="12" special="true" />
+</item>

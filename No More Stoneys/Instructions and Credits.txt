@@ -1,0 +1,26 @@
+# Mod Description #
+Do you hate stoneys? If yes, this is the mod for you!
+
+What this mod will do is when everytime a stoney spawns,
+It will replace it with a fatty! What kind of fatty ?
+That depends on the floor you're at.
+
+Normal Basement: Normal Fatty,
+Burning Basement: Burning Fatty,
+After Basement: Pale Fatty.
+
+# Mod Author #
+Lal Mirch,
+a.k.a Vincent Hwang
+a.k.a Magnificent Vincent
+a.k.a Vincent Vector Vharsk
+a.k.a BIG SMOKE
+
+# Installing Insctructions #
+> Locate your "Documents" folder.
+> Go to "My Games", "Binding of Isaac Afterbirth+ Mods".
+> Extract "No More Stoney" into that folder.
+> Enable the mod from "Mods" menu in-game.
+
+# Thanks #
+Thanks to people at Discord channel for helping me out.

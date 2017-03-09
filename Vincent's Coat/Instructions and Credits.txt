@@ -1,0 +1,18 @@
+# Mod Description #
+Vincent's coat, overheats when damaged.
+
+# Mod Author #
+Lal Mirch,
+a.k.a Vincent Hwang
+a.k.a Magnificent Vincent
+a.k.a Vincent Vector Vharsk
+a.k.a BIG SMOKE
+
+# Installing Insctructions #
+> Locate your "Documents" folder.
+> Go to "My Games", "Binding of Isaac Afterbirth+ Mods".
+> Extract "Vincent's Coat" into that folder.
+> Enable the mod from "Mods" menu in-game.
+
+# Thanks #
+Thanks to people at Discord channel for helping me out.

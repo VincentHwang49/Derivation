@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive cache="damage" name="Bee Shield" description="Float like a butterfly..." gfx="collectibles_beeshield.png" />
+</item>

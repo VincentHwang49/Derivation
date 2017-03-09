@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Golden Gauntlet</name>
+    <directory>golden gauntlet</directory>
+    <id>861606618</id>
+    <description>This is a powerful gauntlet inspired by &quot;Gran Tesoro&quot; from One Piece Film:GOLD.
+
+Upon use, it will turn every vulnerable enemy, poop and the room you're on into gold. The enemies that are turned into gold are applied the Midas Freeze effect therefore upon their death they will drop 1 to 3 coins.
+
+After reading this you probably guess that this item is very powerful and when used right, It can get you more then 99 coins. With my current abilities there is no way to really balance this item out so I just made it really rare. This item has 12 charges, is rare and has much more less probability to appear in the treasure room much like Mega Satan's Breath or Bomber Boy.</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Active Items"/>
+</metadata>

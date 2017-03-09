@@ -1,0 +1,3 @@
+<players bigportraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/" portraitroot="gfx/ui/boss/" root="gfx/characters/costumes/">
+	<player armor="1" bigportrait="PlayerPortraitBig_15_Apollyon.png" costume="36" hp="0" items="2" name="Niko" nameimage="PlayerName_15_Apollyon.png" portrait="PlayerPortrait_15_Apollyon.png" skin="Character_016_Apollyon.png" skinColor="5" />
+</players>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Bee Shield</name>
+    <directory>bee shield</directory>
+    <id>849291525</id>
+    <description>I like The Binding of Isaac and Borderlands 2 very much.
+So I asked myself, why not both ?
+
+I will be trying to implement items to TBoI from Borderlands 2 such as the Bee Shield.
+
+Since shield mechanics in Borderlands 2 do not exist in The Binding of Isaac obviously, I implemented it in a simplier way.
+
+It's a passive item. After picking up, this item will increase your damage following this formula: damage = (damage / 2) + (floornumber / 5). The gimmick is, you will only get this damage bonus when you don't have any empty or half-empty heart containers.
+
+Thanks to Eufuu and Lytebringr from YouTube and all the beautiful people on The Modding of Isaac Discord page for helping me out.
+</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>
